@@ -5,6 +5,7 @@
 - อยากจะ refactor code ใหม่
 - จัดการ project structure ใหม่ จัด domain ใหม่
 - ปรับปรุง flow ของ CLI Application ให้ UX ดีขึ้น ใช้งานง่ายขึ้น
+- ปรับปรุง Testcase
   
 2. อะไรคือ feature ที่นำเข้ามาใช้ในการพัฒนา application นี้ กรุณาแนบ code snippet มาด้วยว่าใช้อย่างไร ในส่วนไหน
 - CLI Application นี้ใช้ Package Cobra ในการสร้าง Project Scaffolding `github.com/spf13/cobra`
