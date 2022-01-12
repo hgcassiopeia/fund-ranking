@@ -1,21 +1,21 @@
 # fund-ranking
 
-## Run project
+### Run project
 ```bash
 go run main.go
 ```
 
-## Test project
+### Test project
 ```bash
 go test -v ./cmd
 ```
 
-## Build project
+### Build project
 ```bash
 go build
 ```
 
-## How to use CLI Application
+### How to use CLI Application
 ```bash
 $ codetest --help
 $ codetest fund --help
